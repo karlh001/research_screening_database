@@ -1,6 +1,6 @@
 # Installation
 
-The front-end, user-facing application is named 'ScreeningFormsX.accdb'. The back-end database (where are data is stored) is saved in the directory backend_db. Before you can use the database, you need to link the back end to the front end.
+The front-end, user-facing application is named 'ScreeningForms.accdb'. The back-end database (where are data is stored) is saved in the directory backend_db. Before you can use the database, you need to link the back end to the front end.
 
 ![step 1](https://github.com/karlh001/research_screening_database/blob/main/img/choose_data_source.PNG?raw=true)
 
